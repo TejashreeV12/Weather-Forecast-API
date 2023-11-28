@@ -9,6 +9,6 @@ requests can be installed by typing pip install requests in the command promt.
 The api key is to be created in the OpenWeatherMap.
 
 
-![Screenshot (40)](https://github.com/TejashreeV12/Weather-Forecast-API/assets/150324761/b327b0cf-2fa2-44c8-81c7-8c8d89cfb3c8)
-![Screenshot (42)](https://github.com/TejashreeV12/Weather-Forecast-API/assets/150324761/8e815195-7e58-4cf7-9b1b-d5135783c14d)
-![Screenshot (43)](https://github.com/TejashreeV12/Weather-Forecast-API/assets/150324761/a7ca43f1-0805-425e-b41b-6d06b30baf57)
+![Screenshot (40)](https://github.com/TejashreeV12/Weather-Forecast-API/assets/150324761/e8edd9b5-ad8f-480a-a018-a430f6a8a06b)
+![Screenshot (42)](https://github.com/TejashreeV12/Weather-Forecast-API/assets/150324761/4a01ac7f-54d0-478b-990c-bbe6cf79433f)
+![Screenshot (43)](https://github.com/TejashreeV12/Weather-Forecast-API/assets/150324761/559081f8-0ab4-4427-ace6-57859f87ee3f)

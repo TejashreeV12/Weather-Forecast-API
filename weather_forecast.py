@@ -2,7 +2,7 @@
 import requests
 
 url="https://api.openweathermap.org/data/2.5/weather?"
-api_key=6c39e031731482654b04f2f44db4217c
+api_key=open('api_key','r').read() #save the api key in a document or it can typed here.
 city=input("Enter the city name:")
 
 #to convert from kelvin to celsius and fahrenheit
